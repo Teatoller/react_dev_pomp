@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Automated Dev & CI Cycle App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Set up ReactJs automated Dev and CI cycle
 
 ## Available Scripts
 
