@@ -6,6 +6,10 @@ Set up ReactJs automated Dev and CI cycle
 
 In the project directory, you can run:
 
+### `yarn run lint` and `yarn run format`
+$ `yarn run lint`
+$ `yarn run format`
+
 ### `yarn start`
 
 Runs the app in the development mode.\
@@ -15,6 +19,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `yarn test`
+
+$ `yarn test`
+$ `yarn run coverage`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
