@@ -2,6 +2,11 @@
 
 Set up ReactJs automated Dev and CI cycle
 
+[![Build Status](https://travis-ci.com/Teatoller/react_dev_pomp.svg?branch=main)](https://travis-ci.com/Teatoller/react_dev_pomp)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c05d6165a04d55b61da4/maintainability)](https://codeclimate.com/github/Teatoller/react_dev_pomp/maintainability)
+[![Coverage Status](https://coveralls.io/repos/github/Teatoller/react_dev_pomp/badge.svg?branch=main)](https://coveralls.io/github/Teatoller/react_dev_pomp?branch=main)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/c05d6165a04d55b61da4/test_coverage)](https://codeclimate.com/github/Teatoller/react_dev_pomp/test_coverage)
+
 ## Available Scripts
 
 In the project directory, you can run:
